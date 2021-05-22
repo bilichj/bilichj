@@ -4,7 +4,7 @@ mathematics doctoral student, and a preschool parent.
 - 🌱 I’m currently learning about information theory as it 
 relates to finance, NLP, and distributed computing.
 
-I'm starting a list of things that I'd be interested in collaborating on:
+I'd like to collaborate on things like:
 - Many-player financial simulations involving language
 
   - It's a classical fact that extra infromation can increase the 
