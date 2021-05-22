@@ -4,7 +4,7 @@ mathematics doctoral student, and a preschool parent.
 - 🌱 I’m currently learning about information theory as it 
 relates to finance, NLP, and distributed computing.
 
-I'd like to collaborate on things like:
+I'm starting a list of things that I'd be interested in collaborating on:
 - Many-player financial simulations involving language
 
   - It's a classical fact that extra infromation can increase the 
@@ -23,3 +23,5 @@ Edits would propagate via [operational transformation](https://en.wikipedia.org/
 to work out problems instead of pencil and paper, then let's give them better tools to work through problems.
 If we can watch a student do the work for a problem, we can automatically identify where they're having difficulty.
 Knowing that most of her class is hung up on factoring by grouping would be invaluable to the math instructor.
+
+- And anything else you think might be interesting and good for the world!
